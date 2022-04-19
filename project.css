@@ -1,0 +1,36 @@
+                                                                                    /* <!-- nav bar --> */
+                                                                                    
+                                                                                    .nav-item a {
+                                                                                        color: white !important;
+                                                                                    }
+                                                                                    
+                                                                                    .navbar-brand {
+                                                                                        color: white !important;
+                                                                                    }
+                                                                                    
+                                                                                    .carousel-item active {
+                                                                                        height: 30vh!important;
+                                                                                    }
+                                                                                    /* mianimg */
+                                                                                    
+                                                                                    .mian {
+                                                                                        background-color: black;
+                                                                                        height: 90vh;
+                                                                                        width: 100%;
+                                                                                        margin-top: -8%;
+                                                                                    }
+                                                                                    
+                                                                                    .miana {
+                                                                                        background-color: black;
+                                                                                        height: 50vh;
+                                                                                        width: 50%;
+                                                                                        margin-top: 8%;
+                                                                                        margin-left: 22%;
+                                                                                    }
+                                                                                    
+                                                                                    .miana h1 {
+                                                                                        font-size: 50px;
+                                                                                        font-weight: bold;
+                                                                                        color: white;
+                                                                                        padding: 10px;
+                                                                                    }
