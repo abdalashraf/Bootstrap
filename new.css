@@ -1,0 +1,43 @@
+/* firsrow */
+
+.rowh {
+    height: 9vh;
+}
+
+
+/* photo gallery */
+
+.photo1 {
+    border: 1px solid black;
+    height: 7vh;
+    background-color: orange;
+}
+
+.photo2 {
+    border: 1px solid black;
+}
+
+.photo3 {
+    border: 1px solid black;
+}
+
+.photo4 {
+    border: 1px solid black;
+}
+
+.photo5 {
+    border: 1px solid black;
+}
+
+.image img {
+    height: 30vh;
+    width: 100%;
+}
+
+.icon {
+    list-style: none;
+}
+
+.icon li i {
+    font-size: 500%;
+}
